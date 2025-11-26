@@ -67,3 +67,21 @@ Or add any number of files (PDF, TXT, Markdown).
 -No need to re-index every time
 -Fast and persistent
 
+##  Live Deployment
+
+The chatbot is live and accessible here:
+
+👉 **[Open Rag_MemoryChatbot](https://huggingface.co/spaces/nigampriyanshi-ai/Rag_Chatbot)**
+
+This live demo is connected to:
+
+- Real-time Groq Llama models
+
+- Your custom knowledge base
+
+- Full RAG pipeline (retriever + generator)
+
+- Memory-enabled conversation engine
+
+Feel free to test how it handles long conversations and knowledge-grounded responses!
+
