@@ -1,0 +1,17 @@
+# LangChain Core Components (Final Stable Set for LCEL)
+langchain==0.1.20           # Stable version in the 0.1.x series
+langchain-core==0.1.52      # Required by community 0.0.38
+langchain-community==0.0.38 # This is the version that requires 0.1.52
+langchain-chroma==0.1.2     
+langchain-groq==0.1.5       
+
+# Local Embeddings (HuggingFace)
+sentence-transformers==2.7.0 
+
+# Document Handling, Utils & Interface
+pypdf==4.2.0                
+python-dotenv==1.0.1        
+tiktoken==0.6.0             
+gradio==4.31.0              
+chromadb==0.4.24
+pydantic==2.5.3
